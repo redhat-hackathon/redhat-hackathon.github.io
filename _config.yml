@@ -1,0 +1,26 @@
+title: Red Hat ReBoot
+description: Reboot Customer Experience with Open Source
+
+url: https://redhat-hackathon.github.io
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+
+navigation:
+  - title: Home
+    url: /index.html
+  - title: Contact
+    url: /contact
+
+social:
+  github: android10
+  twitter: fernando_cejas
+  facebook: penano
+  email: 
+
+google_analytics: ""
