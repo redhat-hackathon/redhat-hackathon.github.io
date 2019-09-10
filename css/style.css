@@ -1057,7 +1057,7 @@ HEADER STYLING
     padding-bottom: 2em; }
     .header .container {
       position: relative;
-      top: 50%;
+      top: 85%;
       -webkit-transform: translateY(-50%);
       transform: translateY(-50%);
       max-width: 800px; }
@@ -1078,7 +1078,7 @@ HEADER STYLING
           padding: 0 5px;
           border: none; }
           .header nav ul li a {
-            color: white;
+            color: #1b5233;
             font-size: .9em;
             text-decoration: none;
             padding: 0 .25em; }
