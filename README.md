@@ -1,6 +1,8 @@
+## https://redhat-hackathon.github.io/
+
 This is a Jekyll Blog Theme based on [Long Haul](https://github.com/brianmaierjr/long-haul), which is a minimal jekyll theme built with SASS / GULP / BROWSERSYNC / AUTOPREFIXER and focuses on long form blog posts. 
 
-#### [View Demo](https://redhat-hackathon.github.io/)
+#### [View Demo -> https://redhat-hackathon.github.io/](https://redhat-hackathon.github.io/)
 
 ## Features
 
