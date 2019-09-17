@@ -1,28 +1,52 @@
 ---
 layout: post
-title:  "What do we mean by CX and how YOU can improve it"
-date:   2019-09-11
+title:  "What does good CX looks like?"
+date:   2019-09-17
 ---
 
-Have you ever been in a situation where you were on a support hotline on hold forever? 
+As a continuation of our blog post: [What do we mean by CX (Customer Experience) and how can we improve it](https://redhat-hackathon.github.io/blog/what-do-we-mean-by-cs-and-how-can-we-improve-it/), we are going to analyze a couple of use cases and their implications in coming up with a good CX (Customer Experience) and give you a few tips to get started on your idea..
 
-Or you went through a whole purchase process on a website only to find out at the very end that your product was out of stock? Or you were contacted by a sales rep of a company trying to convince you to buy a product that you just bought a week ago? Or a company’s social media channels are advertising contradicting offers to you? Or you simply were confronted with overly (and unnecessarily) complicated pricing structures to make it impossible to figure out how much you’d actually have to pay?
+But before we begin this quick journey, we need to refresh a couple of concepts. Let's get started. 
 
-We all know these situations. And we are sure we can agree that this is not in our (=customers) best interest or it simply sucks. Generally, these situations are summarized as customer experience (CX).
+### What is CX (Customer Experience)?
 
-With our Red Hat hackathon “ReBoot Customer Experience with Open Source” we want to offer you the chance to take the worst of these experiences and to suggest and create new ways to improve customer experience leveraging open source technologies. 
+Customer experience (CX) "is the product of an interaction between an organization and a customer over the duration of their relationship."
 
-What do we mean by customer experience (CX)? 
+In a nutshell, the above concept refers to how a customer perceives the brand through all the interactions across the customer life cycle. 
 
-[Wikipedia](https://en.wikipedia.org/wiki/Customer_experience) offers an excellent description of customer experience as how the sum of all "interactions between an organization and a customer over the duration of their relationship" determines our perception of a company or brand. This includes all touchpoints that we may have with a company and their brand. Due to the rise of the Internet, mobile devices, social media and increased connectedness this is admittedly also very hard to get right. 
+In this interaction/customer life cycle, there are 3 main components: 
 
-Providing an outstanding customer experience that customers actually love is especially challenging in more traditional industries like banking, insurance, telecommunications, public sector/government, healthcare, manufacturing, or transportation. These markets offer great opportunities for change and disruption as has been shown by many examples such as Uber disrupting transportation, Twilio disrupting telcos and Stripe or Transferwise disrupting banking. 
+ - The customer journey.
+ - The contact points between the brand and the customer, where the interaction happens. 
+ - The context and environment that the customer experiences during this interaction. 
 
-In our hackathon, we want to keep it open, to not set any limitations to your own creativity. Think of any customer experience situation that you didn’t like and come up with a solution to improve it. The sky's the limit. You choose the area. You choose the app, experience, service, frameworks or programming languages. We only want you to leverage the power of open source technology provided by Red Hat. 
+A good CX means that the customer experience during all these mentioned points of contact matches (or better yet, exceeds!) the expectations.
 
-This will be an amazing opportunity to leverage the power and disruptiveness of open source. What better way to do this than by teaming up with your best colleagues, compete against the best developers in EMEA, and take home awesome prizes! 
+As a developer, your job is to design and develop the way those intended experiences are delivered. 
 
-Head to the [Hackathon](https://redhat.devpost.com/) site to find the detailed hackathon judging criteria and the exact submission information and dates.
+### CX Disruption
 
-Seeing is believing: Come and show us your way to ReBoot customer experience with open source! 
+By keeping in mind our above definition, there are companies/brands that disrupted CX, they were game changers in their respective product areas:
+
+ - **Netflix:** they changed in part the film industry and the way most people watch movies and TV shows. One part of its core strategy is to understand that personalization is the key to offering customers an experience that keeps them engaged.
+
+ - **Spotify:** they knew that music is the great connector. It unites us across markets, ages, backgrounds, languages, preferences, political leanings and income levels. They leveraged this knowledge and offered a great music streaming experience: they were pioneers in the field. 
+
+And the list continues: **Uber**, **Transferwise**, **Stripe**, **AirBnb**... All these companies/brands have revolutionized the industry with innovative, creative and disrupted ideas. 
+
+### Getting Started on your Idea
+
+There are two ways to get started with your hackathon idea:
+
+ 1. Think of a service you interact with daily or weekly (a bank, medical care, education service, transportation, retail).  Is there something that frustrates you? How did you find out about them?  Was there any followup?
+ 2. Perhaps you are working for a company.  Think about the ways your customer interacts with your company from the moment they learn about you. Better yet, if you have the data to back up the customer journey, use that. Are there gaps or continual problem areas with the service?
+
+**Then review:  What’s the most important part of the service to ensure the customer gets what they need?**
+
+Next step is to put your creative developer hat on in whatever way that works for you (using a whiteboard, taking your dog for a walk, have a beer!).  How would YOU devise a better service experience? Turn it around, look at it from a different angle. Is there a new technology that can support your delivery such as machine learning and data science or even XR (virtual reality or augmented reality)!  You might see an entirely new way to offer that service and become the next disruptor!
+
+### The Future is yours
+
+Show us your creative and awesomely disruptive ideas like the ones mentioned above. The possibilities are unlimited.
+Stay tuned and do not forget to check the [Hackathon](https://redhat.devpost.com/) site to find more information.
 
