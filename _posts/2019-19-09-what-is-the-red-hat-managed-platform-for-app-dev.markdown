@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What’s the Red Hat Managed Platform for AppDev and benefits does it deliver?"
+title:  "What’s the Red Hat Managed Platform for AppDev and what benefits does it deliver?"
 date:   2019-09-19
 ---
 
