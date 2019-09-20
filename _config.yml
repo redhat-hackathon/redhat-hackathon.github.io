@@ -16,6 +16,8 @@ navigation:
     url: /index.html
   - title: Contact
     url: /contact
+  - title: Hackathon Sign up
+    url: https://redhat.devpost.com/
 
 social:
   github: android10
