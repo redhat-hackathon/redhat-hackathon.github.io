@@ -12,7 +12,15 @@ Good to see so many of you registered for our hackathon and starting to look aro
 
 In this webinar we will give an introduction to the open source philosophy of Red Hat and how the communities create outstanding software. We'll briefly touch upon the benefits of open source software and then go into the actual technologies and middleware tools offered for this hackathon. All these tools are available through an AppDev platform managed by Red Hat, which is based on the very popular container platform OpenShift. 
 
-We will discuss the following middleware tools and their capabilities: - Red Hat Application Runtimes for application development - Red Hat Fuse for integration - Red Hat AMQ for messaging - Red Hat 3scale API Management - Red Hat Process Automation Manager - Red Hat Decision Manager - Red Hat DataGrid for distributed caching - Red Hat Single Sign-on (SSO) for application security.
+We will discuss the following middleware tools and their capabilities: 
+ - Red Hat Application Runtimes for application development.
+ - Red Hat Fuse for integration. 
+ - Red Hat AMQ for messaging. 
+ - Red Hat 3scale API Management.
+ - Red Hat Process Automation Manager.
+ - Red Hat Decision Manager.
+ - Red Hat DataGrid for distributed caching.
+ - Red Hat Single Sign-on (SSO) for application security.
 
 ### Latest Blogs
 You can also check out this blog on [What’s the Red Hat Managed Platform for AppDev and what benefits does it deliver?](https://redhat-hackathon.github.io/blog/what-is-the-red-hat-managed-platform-for-app-dev/)
