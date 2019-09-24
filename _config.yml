@@ -17,7 +17,7 @@ navigation:
   - title: Contact
     url: /contact
   - title: Hackathon Sign up
-    url: https://redhat.devpost.com/
+    url: https://redhat.devpost.com/?utm_source=redhat&utm_medium=OrganicSocial&utm_content=developers&utm_campaign=redhatrebootcx
 
 social:
   github: android10
