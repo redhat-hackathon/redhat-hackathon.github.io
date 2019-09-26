@@ -22,8 +22,11 @@ We will discuss the following middleware tools and their capabilities:
  - Red Hat DataGrid for distributed caching.
  - Red Hat Single Sign-on (SSO) for application security.
 
+### Webinar Recording
+Here you can find the recording of the session: [https://bluejeans.com/s/deeHS](https://bluejeans.com/s/deeHS). Any feedback is more than welcome. 
+
+
 ### Latest Blogs
 You can also check out this blog on [What’s the Red Hat Managed Platform for AppDev and what benefits does it deliver?](https://redhat-hackathon.github.io/blog/what-is-the-red-hat-managed-platform-for-app-dev/)
 
 **Still wondering about what Customer Experience is?** Here’s a blog on [What does Good CX Looks Like](https://redhat-hackathon.github.io/blog/what-does-good-cx-looks-like/) for some ideas!
-
