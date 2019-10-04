@@ -6,7 +6,7 @@ date:   2019-10-02
 
 ### Update
 **In case you missed this webinar, here is the recording:**
-[https://bluejeans.com/6370804305](https://bluejeans.com/6370804305)
+[https://www.youtube.com/watch?v=IQ0Ru-uoDo0](https://www.youtube.com/watch?v=IQ0Ru-uoDo0)
 
 ### When?
 **Webinar: Thursday, October 3:  10:30 CET (30 minutes)**
