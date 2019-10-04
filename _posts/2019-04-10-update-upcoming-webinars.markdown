@@ -34,3 +34,19 @@ A quick introduction to Red Hat Fuse, the engine of Agile Integration. We will b
 **To Watch, follow this link:** [https://bluejeans.com/6370804305](https://bluejeans.com/6370804305)
 
 As an introduction to the 'ReBoot Customer Experience with Open Source' hackathon, this webinar gives attendees a quick hands-on introduction to get started with Red Hat OpenShift Application Runtimes (RHOAR). Developers just want to get started with a code project tied to their GitHub account, connect that to an OpenShift Container Platform and push their ideas in a steady stream of innovation. This tour get's developers started and initialised your journey into the upcoming 'ReBoot Customer Experience with Open Source' event.
+
+### Webinar: Authenticating your applications using Red Hat Single Sign On
+
+#### When: Wednesday, October 9: 16:00 CET (30 minutes).
+
+**To Watch, follow this link:** [https://bluejeans.com/3929697802](https://bluejeans.com/3929697802)
+
+Quick introduction to RH-SSO and to its most common use cases. We will also be showing a short demo and conclude with a Q&A session.
+
+### Webinar: Boosting your application performance with Red Hat Data Grid
+
+#### When: Friday, October 11: 11:00 CET (30 minutes).
+
+**To Watch, follow this link:** [https://bluejeans.com/7836943985](https://bluejeans.com/7836943985)
+
+Red Hat Data Grid increases application response times and allows developers to dramatically improve performance while providing availability, reliability, and elastic scale. In this webinar, we will learn what is Red Hat Data Grid, its usecases and how to get started with a hands-on demo.
