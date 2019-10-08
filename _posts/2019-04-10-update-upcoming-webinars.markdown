@@ -6,6 +6,9 @@ date:   2019-10-04
 
 ### Webinar: Cloud Native Business Automation
 
+#### Update!
+Here is the recording in case you missed it: [https://bluejeans.com/s/vSiSv](https://bluejeans.com/s/vSiSv).
+
 #### When: Monday, October 7: 16:00 CET (30 minutes).
 **To Watch, follow this link:** [https://redhat.bluejeans.com/3951550971](https://redhat.bluejeans.com/3951550971)
 
