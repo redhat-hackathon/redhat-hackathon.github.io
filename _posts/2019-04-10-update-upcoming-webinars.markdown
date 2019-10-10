@@ -24,6 +24,9 @@ In this sessions we will go over the different components of the Red Hat Integra
 
 ### Webinar: An Introduction to Red Hat Fuse
 
+#### Update!
+Here is the recording in case you missed it: [https://bluejeans.com/s/d2m9T/](https://bluejeans.com/s/d2m9T/).
+
 #### When: Wednesday, October 9: 09:00 CET (30 minutes).
 
 **To Watch, follow this link:** [https://bluejeans.com/4734634989](https://bluejeans.com/4734634989)
