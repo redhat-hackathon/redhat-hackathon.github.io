@@ -43,6 +43,9 @@ Quick introduction to RH-SSO and to its most common use cases. We will also be s
 
 ### Webinar: Red Hat OpenShift Application Runtimes (RHOAR)
 
+#### Update!
+Here is the recording in case you missed it: [https://bluejeans.com/s/Pwn9y/](https://bluejeans.com/s/Pwn9y/).
+
 #### When: Thursday, October 10: 14:00 CET (30 minutes).
 
 **To Watch, follow this link:** [https://bluejeans.com/6370804305](https://bluejeans.com/6370804305)
