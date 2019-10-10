@@ -48,7 +48,7 @@ As an introduction to the 'ReBoot Customer Experience with Open Source' hackatho
 
 ### Webinar: Boosting your application performance with Red Hat Data Grid
 
-#### When: Friday, October 11: 11:00 CET (30 minutes).
+#### When: Friday, October 11: 16:00 CET (30 minutes).
 
 **To Watch, follow this link:** [https://bluejeans.com/7836943985](https://bluejeans.com/7836943985)
 
