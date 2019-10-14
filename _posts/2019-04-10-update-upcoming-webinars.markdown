@@ -16,6 +16,9 @@ In the world of cloud-native applications, microservices and event-driven archit
 
 ### Webinar: Getting Started with Red Hat AMQ
 
+#### Update!
+Here is the recording in case you missed it: [https://youtu.be/dA8HznTKAJU](https://youtu.be/dA8HznTKAJU).
+
 #### When: Tuesday, October 8: 15:00 CET (30 minutes).
 
 **To Watch, follow this link:** [http://bluejeans.com/hguerrer](http://bluejeans.com/hguerrer)
