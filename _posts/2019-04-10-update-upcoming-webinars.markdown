@@ -10,6 +10,7 @@ date:   2019-10-04
 Here is the recording in case you missed it: [https://bluejeans.com/s/vSiSv](https://bluejeans.com/s/vSiSv).
 
 #### When: Monday, October 7: 16:00 CET (30 minutes).
+
 **To Watch, follow this link:** [https://redhat.bluejeans.com/3951550971](https://redhat.bluejeans.com/3951550971)
 
 In the world of cloud-native applications, microservices and event-driven architectures, the role of business rules, decisions and processes plays an ever growing role. The increasing load on information systems due to fast digitalization of our world asks for optimized platforms that are agile, light-weight and horizontally scalable. In this session we will look at how Red Hat Decision Manager and Process Automation Manager enable the implementation of rules, decisions and processes in a containerized world to serve the business of the future.
