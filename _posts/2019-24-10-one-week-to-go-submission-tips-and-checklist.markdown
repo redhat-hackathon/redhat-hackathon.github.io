@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "10/24 One week to go: submission tips & checklist"
+title:  "24/10 One week to go: submission tips & checklist"
 date:   2019-10-24
 ---
 
