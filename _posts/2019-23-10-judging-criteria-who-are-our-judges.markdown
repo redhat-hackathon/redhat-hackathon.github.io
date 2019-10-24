@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Judging criteria: Who are our Judges?"
-date:   2019-10-23
+date:   2019-10-24
 ---
 
 These are the Judges who are going to evaluate and provide feedback to all the interesting projects.
