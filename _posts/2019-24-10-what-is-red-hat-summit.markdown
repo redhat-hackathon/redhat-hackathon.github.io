@@ -4,11 +4,9 @@ title:  "What is the Red Hat Summit?"
 date:   2019-10-24
 ---
 
-### What is the Red Hat Summit?
-
 As you probably know, one of our [top prizes](https://redhat.devpost.com/rules) of our hackathon is the invitation to attend and present the winning project at our [Red Hat Summit](https://www.redhat.com/en/summit) in 2020 in San Francisco. 
 
-**But what is this Red Hat Summit all about?**
+### But what is this Red Hat Summit all about?
 
 **Put simply:** It is a huge event celebrating the power of open source. It is Red Hat driven but open to any other companies and contributors in the space. It is an annual, three day event alternating between San Francisco and Boston. 
 
