@@ -60,6 +60,28 @@ A large part of that is the automation of as much as possible in the house using
  - **Twitter:** [https://twitter.com/therealGertJan](https://twitter.com/therealGertJan)
  - **LinkedIn:** [https://www.linkedin.com/in/gert-jan-van-halem/](https://www.linkedin.com/in/gert-jan-van-halem/)
 
+
+<br>
+### Jose Quaresma - Accenture
+
+<center><img src="{{ '/assets/img/judge_jose_quaresma.jpg' | prepend: site.baseurl }}" alt=""></center>
+
+#### Biography
+Jose is leading the DevOps practice at Accenture Technology in Denmark. His main focus is in bringing the best of DevOps' concepts, processes, and methodologies to the enterprise. 
+
+He is interested in both the technology and tools as well as the people and culture aspects of DevOps, Agile, and Lean.
+
+#### The Hackathon
+We at Accenture have a great partnership with Red Hat and I have been working hands-on with Red Hat OpenShift for over 3 years now, which has been a lot of fun!
+
+#### Personal Note
+I do triathlon. Training for Ironman Copenhagen 2020.
+
+#### Social Networks
+ - **Twitter:** [https://twitter.com/josequaresma](https://twitter.com/josequaresma)
+ - **LinkedIn:** [https://www.linkedin.com/in/jose-quaresma/](https://www.linkedin.com/in/jose-quaresma/)
+
+
 <br>
 ### Judging Criteria
 This is what you can expect to be evaluated based on the following areas:
