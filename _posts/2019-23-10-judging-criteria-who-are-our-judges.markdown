@@ -74,8 +74,12 @@ He is interested in both the technology and tools as well as the people and cult
 #### The Hackathon
 We at Accenture have a great partnership with Red Hat and I have been working hands-on with Red Hat OpenShift for over 3 years now, which has been a lot of fun!
 
+I am looking forward to see the cool solutions you will come up with!
+
 #### Personal Note
-I do triathlon. Training for Ironman Copenhagen 2020.
+After a few years of a break, I actually got back into triathlon this year and I have registered for Ironman Copenhagen next years (fingers crossed!). 
+
+I love reading so don’t hesitate to reach out if you have a book recommendation!
 
 #### Social Networks
  - **Twitter:** [https://twitter.com/josequaresma](https://twitter.com/josequaresma)
