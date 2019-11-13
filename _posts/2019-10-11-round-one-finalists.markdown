@@ -14,7 +14,7 @@ Here are the teams who will go on to **Round Two** to compete for the cash prize
  - [DSFH](https://devpost.com/software/d-s-f-h)
  - [Hello You](https://devpost.com/software/helloyou)
  - [Red CX](https://devpost.com/software/red-cx)
- - [rh2prometheus](https://devpost.com/software/rhv2prometheus)
+ - [RHV2Prometheus](https://devpost.com/software/rhv2prometheus)
  - [Travel Assist](https://devpost.com/software/travel-assist-y0c1ex)
  - [Victor CX](https://devpost.com/software/victorcx)
 
