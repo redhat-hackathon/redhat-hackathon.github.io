@@ -87,6 +87,30 @@ I love reading so don’t hesitate to reach out if you have a book recommendatio
 
 
 <br>
+### Markus Eisele - Red Hat
+
+<center><img src="{{ '/assets/img/judge_markus_eisele.jpg' | prepend: site.baseurl }}" alt=""></center>
+
+#### Biography
+Markus is a Java Champion, former Java EE Expert Group member, founder of JavaLand, reputed speaker at Java conferences around the world, and a very well known figure in the Enterprise Java world.
+
+#### The Hackathon
+With more than 16 years of professional experience in the industry, he designed and developed large Enterprise grade applications for Fortune 500 companies. 
+
+As an experienced team lead and architect, he helped implement some of the largest integration projects in automotive, finance and insurance companies.
+
+More than 12 years of international speaking experience and 5 years in developer advocacy with a strong focus on Java platforms helped him build a large network of professionals and influencers.
+
+He is an O'Reilly author and helped with technical reviews of more than 10 books about technologies he cares for. He published more than 100 articles in various IT publications over the last 10 years.
+
+#### Personal Note
+I've traveled almost a Million km since I started working in Developer Relations and Advocacy and I still love doing it.
+
+#### Social Networks
+ - **Twitter:** [twitter.com/myfear](twitter.com/myfear)
+
+
+<br>
 ### Judging Criteria
 This is what you can expect to be evaluated based on the following areas:
 
