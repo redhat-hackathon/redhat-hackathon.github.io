@@ -111,6 +111,21 @@ I've traveled almost a Million km since I started working in Developer Relations
 
 
 <br>
+### Antonio Valle Gutierrez - BBVA
+
+<center><img src="{{ '/assets/img/judge_antonio_gutierrez.jpg' | prepend: site.baseurl }}" alt=""></center>
+
+#### Biography
+Antonio Valle is the Global Head of BPM Architecture at BBVA since four years ago and worked for BBVA for the last 10 years. 
+
+In his current role, he manages and leads the team that develops and maintains the BPM Platforms that serve the different countries where BBVA operates. 
+
+He has more than 15 years of experience helping several global financial institutions to leverage IT to transform and improve the way they operate. 
+
+Antonio has a Degree in Telecommunication Engineering by the Alcalá de Henares University and an IT Executive Master by the IE Business School.
+
+
+<br>
 ### Judging Criteria
 This is what you can expect to be evaluated based on the following areas:
 
