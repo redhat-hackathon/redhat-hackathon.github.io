@@ -6,9 +6,7 @@ date:   2019-12-20
 
 By Manfred [Bortenschlager](https://rover.redhat.com/people/profile/mbortens), Agile Integration Business Development, EMEA
 
-Back in September we launched the Red Hat EMEA Hackathon inviting developers to “ReBoot Customer Experience with Open Source.” We did this as part of a drive to encourage greater developer adoption, for more on why we are running a campaign like the Hackathon, read our previous [blog post](https://mojo.redhat.com/groups/emea-internal-communications/blog/2019/09/20/red-hat-emea-hackathon-how-we-aim-to-improve-developer-adoption-via-a-large-scale-emea-virtual-hackathon).
-
-Hundreds of developers from around the world participated, some as individuals with others as part of a team, helping to create some fantastic app ideas. The submissions were reviewed by an experienced panel of six judges - whom I should thank for all their hard work and words of wisdom.
+Back in September we launched the Red Hat EMEA Hackathon inviting developers to “ReBoot Customer Experience with Open Source.” Hundreds of developers from around the world participated, some as individuals with others as part of a team, helping to create some fantastic app ideas. The submissions were reviewed by an experienced panel of six judges - whom I should thank for all their hard work and words of wisdom.
 
 **Thank you!**
  - **Gert Jan van Halem**, Chief Technology Officer at Devoteam
